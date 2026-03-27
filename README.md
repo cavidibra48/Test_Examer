@@ -45,7 +45,7 @@ A high-performance, cross-platform Desktop Examination System built with **Rust*
    sudo dpkg -i test_examer_1.0.0_amd64.deb
    #If there are missing dependencies, run:
    sudo apt-get install -f
-5.You can now launch Test Examer from your application menu.
+5. You can now launch Test Examer from your application menu.
   
 ### 🪟 For Windows
 
