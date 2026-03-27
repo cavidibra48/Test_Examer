@@ -1,3 +1,5 @@
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
 # Test_Examer 🚀
 
 A high-performance, cross-platform Desktop Examination System built with **Rust** and the **eframe (egui)** framework. This project is designed to provide a lightweight and secure environment for taking tests and exams.
@@ -56,4 +58,14 @@ A high-performance, cross-platform Desktop Examination System built with **Rust*
 4.Double-click Test_Examer.exe to run.
 
     Note: Since the binary is not digitally signed, Windows SmartScreen may show a warning. Click "More info" -> "Run anyway".
+
+
+
+## ⚖️ License
+
+This project is licensed under the **GNU GPLv3** License. 
+
+- You are free to run, study, share, and modify the software.
+- If you modify the core logic and redistribute it, you **must** keep it under the same license (Copyleft).
+- See the [LICENSE](LICENSE) file for the full text.
   
