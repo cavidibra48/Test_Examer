@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Test_Examer
+Exec=Test_Examer
+Icon=icon_test_examer
+Terminal=false
+Categories=Utility;

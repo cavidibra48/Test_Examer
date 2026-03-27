@@ -1,0 +1,29 @@
+[package]
+name = "Test_Examer"
+version = "1.0.0"
+edition = "2024"
+authors = ["Cavid Ibrahimli <cavidibrahiimli@gmail.com>"]
+rust-version = "1.93.0"
+license = "GPL-3"
+
+[package.metadata.deb]
+maintainer = "Cavid Ibrahimli <cavidibrahiimli@gmail.com>"
+priority = "optional"
+section = "utils"
+assets = [
+    ["target/release/Test_Examer", "/usr/bin/Test_Examer", "755"],
+    ["assets/fonts/Qdbettercomicsans-jEEeG.ttf", "/usr/share/Test_Examer/fonts/", "644"],
+    ["assets/icons/icon_test_examer.svg", "/usr/share/icons/hicolor/scalable/apps/Test_Examer.svg", "644"],
+    ["assets/icons/icon_test_examer.ico", "/usr/share/icons/hicolor/scalable/apps/Test_Examer.ico", "644"],
+    ["assets/Test_Examer.desktop", "/usr/share/applications/", "644"]
+]
+
+[dependencies]
+eframe = "0.33.3"
+pdf-extract = "0.10.0"
+rand = "0.10.0"
+rfd = "0.17.2"
+
+
+[build-dependencies]
+winres = "0.1"
