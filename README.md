@@ -19,6 +19,19 @@ A high-performance, cross-platform Desktop Examination System built with **Rust*
 - **Compilation:** Multi-target cross-compilation (x86_64-unknown-linux-gnu & x86_64-pc-windows-gnu)
 - **Resource Management:** `winres` for Windows metadata and icons.
 
+
+## 🚀 Future Plans & Roadmap
+
+I am actively working on enhancing **Test_Examer** with the following features:
+
+- [ ] **Advanced PDF Templates:** Adding support for diverse PDF structures and layouts beyond the current single template.
+- [ ] **Custom Exam Settings:** Users will be able to select a specific number of questions and set custom time limits.
+- [ ] **Timer System:** Integration of a countdown timer to simulate real-world exam conditions.
+- [ ] **Security Hardening:** Implementing secure PDF parsing to prevent potential malicious script execution (Sandboxing).
+- [ ] **Dark Mode Support:** Improving the UI for better user experience during long study sessions.
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -58,6 +71,9 @@ A high-performance, cross-platform Desktop Examination System built with **Rust*
 4.Double-click Test_Examer.exe to run.
 
     Note: Since the binary is not digitally signed, Windows SmartScreen may show a warning. Click "More info" -> "Run anyway".
+
+
+
 
 
 
