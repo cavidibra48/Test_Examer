@@ -48,7 +48,7 @@ I am actively working on enhancing **Test_Examer** with the following features:
 2. You can download the pre-compiled binaries from the **[Releases](https://github.com/cavidibra48/Test_Examer/releases)** section.
 
 ### 🐧 For Linux (Debian/Ubuntu/Mint)
-1. Download the `.deb` package.
+1. Download the **[.deb](https://github.com/cavidibra48/Test_Examer/releases/download/v1.0.0/test-examer_1.0.0-1_amd64.deb)** package.
 2. Open your terminal in the download folder.
 3. Install using `apt`:
    ```bash
