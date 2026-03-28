@@ -60,9 +60,9 @@ I am actively working on enhancing **Test_Examer** with the following features:
    sudo apt-get install -f
 5. You can now launch Test Examer from your application menu.
   
-### 🪟 For Windows
+### 🪟 For Windows (Not tested)
 
-1.Download the Test_Examer_Windows.zip file.
+1.Download the **[Test_Examer_Windows.zip](https://github.com/cavidibra48/Test_Examer/releases/download/v1.0.0/Windows_Test_Examer.1.0.0.zip)** file.
 
 2.Extract the ZIP folder to your desired location.
 
